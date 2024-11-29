@@ -90,7 +90,7 @@ print(f"Letra más repetida: {letra}")
 print(f"Posiciones: {posiciones}")
 
 # 5
-print("\nMensaje Encreiptado:")
+print("\nMensaje Encriptado:")
 #letra mas repetida
 letra, posiciones = letra_mas_repetida(mensaje_encriptado)
 
